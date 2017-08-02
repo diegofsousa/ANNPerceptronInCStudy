@@ -1,4 +1,8 @@
-#include <stdio.h>
+/*
+    Unfortunate scenes using C language;
+    Attempt to implement ANN Perceptron;
+*/
+
 #include <stdlib.h>
 #include <time.h>
 
